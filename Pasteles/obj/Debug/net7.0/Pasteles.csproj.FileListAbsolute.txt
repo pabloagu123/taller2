@@ -1,0 +1,15 @@
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\bin\Debug\net7.0\Pasteles.exe
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\bin\Debug\net7.0\Pasteles.deps.json
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\bin\Debug\net7.0\Pasteles.runtimeconfig.json
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\bin\Debug\net7.0\Pasteles.dll
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\bin\Debug\net7.0\Pasteles.pdb
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\Pasteles.csproj.AssemblyReference.cache
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\Pasteles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\Pasteles.AssemblyInfoInputs.cache
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\Pasteles.AssemblyInfo.cs
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\Pasteles.csproj.CoreCompileInputs.cache
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\Pasteles.dll
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\refint\Pasteles.dll
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\Pasteles.pdb
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\Pasteles.genruntimeconfig.cache
+C:\Users\corre\OneDrive\Escritorio\C#\Pasteles\obj\Debug\net7.0\ref\Pasteles.dll

@@ -1,0 +1,15 @@
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\bin\Debug\net7.0\Monoplaza.exe
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\bin\Debug\net7.0\Monoplaza.deps.json
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\bin\Debug\net7.0\Monoplaza.runtimeconfig.json
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\bin\Debug\net7.0\Monoplaza.dll
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\bin\Debug\net7.0\Monoplaza.pdb
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\Monoplaza.csproj.AssemblyReference.cache
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\Monoplaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\Monoplaza.AssemblyInfoInputs.cache
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\Monoplaza.AssemblyInfo.cs
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\Monoplaza.csproj.CoreCompileInputs.cache
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\Monoplaza.dll
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\refint\Monoplaza.dll
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\Monoplaza.pdb
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\Monoplaza.genruntimeconfig.cache
+C:\Users\corre\OneDrive\Escritorio\C#\Monoplaza\obj\Debug\net7.0\ref\Monoplaza.dll
